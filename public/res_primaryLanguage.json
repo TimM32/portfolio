@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Claws and Paws Adoption",
+        "startDate": "2023",
+        "description": "This was my first project dealing with coding. The reason we made this website is that we wanted to make it easier for people to find the right pet for themselves in whatever situation they were currently in.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Homepage.PNG",
+          "images/portfolio/stats claws-paws.PNG"
         ],
         "url": "",
         "technologies": [
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "OddDuck",
+        "startDate": "2023",
+        "description": "This project was about showing a companies product and allowing a user to pics which product they wanted. It took me 4 lab sessions to finish. I took the amount of times someone click on a product and showcased that popularity in a chart.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
