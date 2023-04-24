@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/TimM32",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tim-maupin-4b301078/",
+          "class": "fab fa-instagramlinkedin"
         }
       ],
       "image": "myProfile.jpg"
@@ -29,12 +29,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
+          
+          "name": "Typescript",
           "class": "devicon-typescript-plain",
           "level": "90"
         },
@@ -43,26 +39,14 @@
           "class": "devicon-javascript-plain",
           "level": "70"
         },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
+        
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
+       
+    
       ]
     }
   }

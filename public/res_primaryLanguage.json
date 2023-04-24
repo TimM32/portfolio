@@ -39,8 +39,8 @@
         "startDate": "2023",
         "description": "This project was about showing a companies product and allowing a user to pics which product they wanted. It took me 4 lab sessions to finish. I took the amount of times someone click on a product and showcased that popularity in a chart.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/oddduck-graph.PNG",
+          "images/portfolio/oddduck-written-results.PNG"
         ],
         "url": "https://github.com",
         "technologies": [
